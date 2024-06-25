@@ -22,4 +22,5 @@ EduStore Guayaquil es una iniciativa orientada a la creación de una plataforma 
 * Inventario: Gestión del inventario de productos.
 * Transacciones: Información sobre las transacciones de pago realizadas.
 
-Note: Podrá descargar el scrip con el modelo fisico 
+NOTE: Podrá descargar el scrip con el modelo fisico [Modelo Fisico](BD/educaStore.sql).
+
